@@ -1,0 +1,20 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  width: fit-content;
+}
+
+.AppInput {
+  margin-bottom: 10px;
+}
+
+.AppResultSuccess {
+  color: green;
+  text-transform: uppercase;
+}
+
+.AppResultFailure {
+  color: red;
+  text-transform: uppercase;
+}
